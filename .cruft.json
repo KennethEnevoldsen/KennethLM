@@ -1,0 +1,24 @@
+{
+  "template": "https://github.com/MartinBernstorff/swift-python-cookiecutter",
+  "commit": "bf3f838211f94056cd3110fc7fc3a98510c1085e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "KennethLM",
+      "package_name": "kennethlm",
+      "friendly_name": "Kennethlm",
+      "author": "Kenneth Enevoldsen",
+      "email": "kennethcenevoldsen@cas.au.dk",
+      "github_user": "kennethenevoldsen",
+      "version": "0.0.0",
+      "copyright_year": "2023",
+      "add_makefile": "y",
+      "license": "MIT",
+      "_copy_without_render": [
+        "*.github"
+      ],
+      "_template": "https://github.com/MartinBernstorff/swift-python-cookiecutter"
+    }
+  },
+  "directory": null
+}

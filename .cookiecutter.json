@@ -1,0 +1,16 @@
+{
+    "_copy_without_render": [
+        "*.github"
+    ],
+    "_template": "https://github.com/MartinBernstorff/swift-python-cookiecutter",
+    "add_makefile": "y",
+    "author": "Kenneth Enevoldsen",
+    "copyright_year": "2023",
+    "email": "kennethcenevoldsen@cas.au.dk",
+    "friendly_name": "Kennethlm",
+    "github_user": "kennethenevoldsen",
+    "license": "MIT",
+    "package_name": "kennethlm",
+    "project_name": "KennethLM",
+    "version": "0.0.0"
+}
