@@ -1,9 +1,5 @@
-<a href="https://github.com/kennethenevoldsen/KennethLM"><img src="https://github.com/kennethenevoldsen/KennethLM/blob/main/docs/_static/icon.png?raw=true" width="100" align="right"/></a>
-
 # KennethLM
 
-<!-- [![PyPI](https://img.shields.io/pypi/v/KennethLM.svg)][pypi status] -->
-<!-- [![Python Version](https://img.shields.io/pypi/pyversions/KennethLM)][pypi status] -->
 <!-- [![documentation](https://github.com/kennethenevoldsen/KennethLM/workflows/documentation/badge.svg)][documentation] -->
 [![Tests](https://github.com/KennethEnevoldsen/KennethLM/actions/workflows/tests.yml/badge.svg)][tests]
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)][black]
@@ -51,48 +47,13 @@ For each improvement it should be clear that it is an improvement.
   - Probably hard to implement, probably easier to just plot the trajectories
 
 
-
 ## Installation
 
-You can install `kennethlm` via [pip] from [PyPI]:
-
 ```bash
-pip install KennethLM
+git clone https://github.com/kennethenevoldsen/KennethLM
+pip install -e .
 ```
 
 ## Usage
-
-TODO: Add minimal usage example
-
-To see more examples, see the [documentation].
-
-# 📖 Documentation
-
-| Documentation         |                                                  |
-| --------------------- | ------------------------------------------------ |
-| 🔧 **[Installation]**  | Installation instructions for using this package |
-| 📖 **[Documentation]** | A minimal and developing documentation           |
-| 👩‍💻 **[Tutorials]**     | Tutorials for using this package                 |
-| 🎛️ **[API Reference]** | API reference for this package                   |
-| 📚 **[FAQ]**           | Frequently asked questions                       |
-
-
-# 💬 Where to ask questions
-
-| Type                           |                        |
-| ------------------------------ | ---------------------- |
-| 📚 **FAQ**                      | [FAQ]                  |
-| 🚨 **Bug Reports**              | [GitHub Issue Tracker] |
-| 🎁 **Feature Requests & Ideas** | [GitHub Issue Tracker] |
-| 👩‍💻 **Usage Questions**          | [GitHub Discussions]   |
-| 🗯 **General Discussion**       | [GitHub Discussions]   |
-
-[Documentation]: https://kennethenevoldsen.github.io/KennethLM/index.html
-[Installation]: https://kennethenevoldsen.github.io/KennethLM/installation.html
-[Tutorials]: https://kennethenevoldsen.github.io/KennethLM/tutorials.html
-[API Reference]: https://kennethenevoldsen.github.io/KennethLM/references.html
-[FAQ]: https://kennethenevoldsen.github.io/KennethLM/faq.html
-[github issue tracker]: https://github.com/kennethenevoldsen/KennethLM/issues
-[github discussions]: https://github.com/kennethenevoldsen/KennethLM/discussions
 
 [NanoGPT]: https://github.com/karpathy/nanoGPT
